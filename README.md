@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antoine Boylston</h1>
 <h3 align="center">Documenting my path from automation to AWS — one project at a time.</h3>
+<h3 align="left"> Hello World, I’m Antoine! Builder, breaker, fixer, and cloud dreamer. On the path to cloud mastery, sharing pieces of my journey along the way. Dive into my projects — from automation hacks to serverless stacks! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoine-boylston&label=Profile%20views&color=0e75b6&style=flat" alt="antoine-boylston" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=antoine-boylston&label=Profile%20views&color=0e75b6&style=flat" alt="antoine-boylston" /> </p>
 
 - 🔭 I’m currently working on [3-Tier Architecture on AWS]("FIXME")
 

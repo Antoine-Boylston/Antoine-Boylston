@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antoine-boylston&label=Profile%20views&color=0e75b6&style=flat" alt="antoine-boylston" /> </p>
 
-- 🔭 I’m currently working on [3-Tier Architecture on AWS]("FIXME")
 
 - 🌱 I’m currently learning **AWS Cloud Operations, AWS AI for Developers,AWS Developer Intermediate, Software Test, Automation QA**
 

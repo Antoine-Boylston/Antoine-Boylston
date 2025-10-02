@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **antoine.boylston@snhu.edu**
 
-- 📄 Know about my experiences ["FIXME"]("FIXME")
+- 📄 Know about my experiences — [antoineboylston.com](https://www.antoineboylston.com)
+
 
 - ⚡ Fun fact **I placed 3rd in 2018 Kentucky's Strongest Man Lightweight Novice Division**
 
